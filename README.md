@@ -11,4 +11,4 @@
 - **I’m currently learning Lua and Javascript.**
 
 <h3 align="left">Connect with me:</h3>
-### The fastest way to reach out to me is **Discord** @ **loot#0001**.
+The fastest way to reach out to me is **Discord** @ **loot#0001**.
