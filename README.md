@@ -1,16 +1,14 @@
-### Hi there 👋
+###                                               Hi there 👋
 
-<!--
-**zvzi/zvzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">I'm lootsu/zvzi</h1>
+<h3 align="center">A skilled Luau scripter, but also a beginner in Javascript. </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zvzi&label=Profile%20views&color=0e75b6&style=flat" alt="zvzi" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zvzi" alt="zvzi" /></a> </p>
+
+- **I’m currently learning Lua and Javascript.**
+
+<h3 align="left">Connect with me:</h3>
+### The fastest way to reach out to me is **Discord** @ **loot#0001**.
