@@ -2,7 +2,7 @@
 
 
 <h1 align="center">I'm lootsu/zvzi</h1>
-<h3 align="center">A skilled Luau scripter, but also a beginner in Javascript. </h3>
+<h3 align="center">Experienced in Javascript and Java, no longer do rlua </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zvzi&label=Profile%20views&color=0e75b6&style=flat" alt="zvzi" /> </p>
 
